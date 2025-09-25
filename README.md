@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I'm **Fabio**
 
 🎓 **Quantum Engineering student** – Politecnico di Torino (2nd year)  
