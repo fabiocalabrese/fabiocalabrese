@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi, I'm **[Fabio]**
+# 👋 Hi, I'm **Fabio**
 
 🎓 **Quantum Engineering student** – Politecnico di Torino (2nd year)  
 🔬 Background in **Engineering Physics** with a strong foundation in **Quantum Mechanics**, **Solid-State Physics**, and **Electronics**.  
