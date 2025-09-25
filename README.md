@@ -30,4 +30,4 @@
 ---
 
 ## 🌐 Contacts
-[Email](mailto:fabiocalabrese88@gmail.com)
+[Email](fabiocalabrese88@gmail.com)
