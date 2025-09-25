@@ -25,7 +25,10 @@
 ## 📊 GitHub Stats
 ![Typing SVG](https://readme-typing-svg.demolab.com?lines=Welcome+to+my+GitHub+profile!)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 ---
 
 ## 🌐 Contacts
 [Email](mailto:fabiocalabrese88@gmail.com)
+
+
