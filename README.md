@@ -2,8 +2,9 @@
 
 🎓 **Quantum Engineering student** – Politecnico di Torino (2nd year)  
 🔬 Background in **Engineering Physics** with a strong foundation in **Quantum Mechanics**, **Solid-State Physics**, and **Electronics**.  
-⚛️ Interested in **Quantum Technologies**, with a focus on **quantum algorithms** and **quantum communication protocols**.
-
+⚛️ Interested in **Quantum Technologies**-
+**Relevant coursework**: Quantum Devices, Quantum Information, High‑Performance Computing, Qubit Electronics
+**In progress**: Quantum Communication & Networking, Quantum Cryptography, Quantum Computing
 ---
 
 ## 🧩 Technical Skills
@@ -17,9 +18,7 @@
 ---
 
 ## 🚀 Current Focus
-- Deepening my understanding of quantum algorithms  
-- Studying principles of quantum communication and key-distribution protocols  
-
+- Quantum Communication & Networking, Quantum Cryptography, Quantum Computing
 ---
 
 ## 📊 GitHub Stats
@@ -28,5 +27,6 @@
 
 ## 🌐 Contacts
 [Email](mailto:fabiocalabrese88@gmail.com)
+[LinkedIn: Fabio Calabrese](https://www.linkedin.com/in/fabio-calabrese-)
 
 
