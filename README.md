@@ -3,7 +3,7 @@
 🎓 **Quantum Engineering student** – Politecnico di Torino (2nd year)  
 🔬 Background in **Engineering Physics** with a strong foundation in **Quantum Mechanics**, **Solid-State Physics**, and **Electronics**.  
 ⚛️ Interested in **Quantum Technologies**  
-**Relevant coursework**: Quantum Devices, Quantum Information, High‑Performance Computing, Qubit Electronics
+📚 **Relevant coursework**: Quantum Devices, Quantum Information, High‑Performance Computing, Qubit Electronics
 ---
 
 ## 🧩 Technical Skills
@@ -25,6 +25,7 @@
 ---
 
 ## 🌐 Contacts
-[Email](mailto:fabiocalabrese88@gmail.com)  [LinkedIn: Fabio Calabrese](https://www.linkedin.com/in/fabio-calabrese-)
+[Email](mailto:fabiocalabrese88@gmail.com)  
+[LinkedIn: Fabio Calabrese](https://www.linkedin.com/in/fabio-calabrese-)
 
 
